@@ -1,4 +1,4 @@
-# Data for Unified Mechanistic Insights into Local Coordination and M-Migration in M2<sub>2</sub><sub>22</sub>H<sub>12</sub>
+# Data for Unified Mechanistic Insights into Local Coordination and M-Migration in M<sub>2</sub>B<sub>12</sub>H<sub>12</sub>
 
 
 This repository contains supplementary materials for results published in Choudhary S., Banerjee S., Unified Mechanistic Insights into Local Coordination and M-Migration in M2B12H12, _Commun. Chem._, **2025**. (DOI: will be updated soon)
