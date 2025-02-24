@@ -7,7 +7,7 @@ Repository contents are as follows:
 
 📂 Example notebooks
 
-    Python scripts utilizing [Pymatgen](https://github.com/materialsproject/pymatgen) for plotting RDF and Integrated RDF using pymatgen and script for analyzing Phonon DOS.
+    Python scripts utilizing Pymatgen (https://github.com/materialsproject/pymatgen) for plotting RDF and Integrated RDF using pymatgen and script for analyzing Phonon DOS.
     
 📂 Source Data
 
