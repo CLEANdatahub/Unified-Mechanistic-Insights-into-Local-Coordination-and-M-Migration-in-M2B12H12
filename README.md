@@ -1,7 +1,7 @@
 # Data for Unified Mechanistic Insights into Local Coordination and M-Migration in M<sub>2</sub>B<sub>12</sub>H<sub>12</sub>
 
 
-This repository contains supplementary materials for results published in "Unified Mechanistic Insights into Local Coordination and M-Migration in M2B12H12, _Commun. Chem._, **2025**." (DOI: will be updated soon) authored by Dr. Swastika Banerjee and [Shweta Choudhary](https://github.com/shwetaphd) 
+This repository contains supplementary materials for results published in "Unified Mechanistic Insights into Local Coordination and M-Migration in M2B12H12, _Commun. Chem._, **2025**." (DOI: will be updated soon) authored by Dr. [Swastika Banerjee](https://sites.google.com/view/swastikabanerjee-iitroorkee/home) and [Shweta Choudhary](https://github.com/shwetaphd) 
 
 Repository contents are as follows:
 
