@@ -5,7 +5,7 @@ This repository contains supplementary materials for results published in "Unifi
 
 Repository contents are as follows:
 
-📂 Example notebooks: Python scripts utilizing Pymatgen (https://github.com/materialsproject/pymatgen) for plotting RDF and Integrated RDF using pymatgen and script for analyzing Phonon DOS.
+📂 Example Notebooks: Python scripts utilizing Pymatgen (https://github.com/materialsproject/pymatgen) for plotting RDF and Integrated RDF using pymatgen and script for analyzing Phonon DOS.
     
 📂 Source Data: Numerical datasets to generate figures in the publication.
 
